@@ -1,4 +1,27 @@
 body {
-	background-color: Yellow;
-	font-color: blue;
+	*box-sizing: border-box;	
+	margin: 0;
+	padding: 0;
+	background-color: BBF5D3;
+	color: black;
+	font-size: 200%;
+
+}
+p1	{
+	font-size: 50%;
+	color: yellow;
+}
+
+#box {
+	background-color: green; /*F36F53; /* salmon */
+	padding: 10px;
+	border: 5px solid black;
+
+.content {
+	background-color: yellow; /*D3F0DF; /* near white */
+	padding: 10px;
+	border: 2px solid black;
+
+
+}
 }
