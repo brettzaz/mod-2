@@ -1,25 +1,18 @@
+*	{
+	box-sizing: border-box;
+}
+
 body {
-	*box-sizing: border-box;	
-	margin: 0;
-	padding: 0;
-	font-size: 200%;
-
+	
+#container {
+	background-color: blue;
+	height: 60px;
+	width: 60px;
 }
-p1	{
-	font-size: 50%;
-	color: yellow;
+	
+div#container {
+	background-color: blue;
+}
+	
 }
 
-#box {
-	background-color: green; /*F36F53; /* salmon */
-	padding: 10px;
-	border: 5px solid black;
-
-.content {
-	background-color: yellow; /*D3F0DF; /* near white */
-	padding: 10px;
-	border: 2px solid black;
-
-
-}
-}
