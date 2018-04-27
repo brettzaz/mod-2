@@ -30,9 +30,7 @@ h1 {
 
 }	
 
-.col-md-12 .boxes {
-	width: 95%;
-}
+
 
 .col-sm-12 .boxes {
 }
@@ -74,6 +72,8 @@ section	{
     float: left;
   
   }
+
+
   .col-lg-1 {
     width: 8.33%;
   }
@@ -118,6 +118,11 @@ section	{
     float: left;
 
   }
+
+  .col-md-12 .boxes {
+	width: 95%;
+}
+
   .col-md-1 {
     width: 8.33%;
   }
@@ -163,6 +168,6 @@ section	{
 	}
 
 .col-sm-12 {
-	width: 100%;
+	width: 95%;
   }
 }
